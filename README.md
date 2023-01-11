@@ -20,5 +20,5 @@ alunos full stack = VARCHAR, INT e DATE<br>
 
 ⇨ Como essas entidades estão relacionadas?<br>
 cursos (front-end; back-end e full stack) 1:1 para cada dados dos alunos para cada tipo de curso (front-end; back-end e full stack).<br>
-cursos (front-end; back-end e full stack) n:m para cada curso tem três tipos de turmas (201,202 e 203) e cada turma tem todos os turnos.<br>
-cursos (front-end; back-end e full stack) n:m para cada curso tem três tipos de turnos (manhã,tarde e noite) e cada turno tem todos as turmas.<br>
+cursos (front-end; back-end e full stack) n:m para cada curso tem três tipos de turmas (201,202 e 203).<br>
+cursos (front-end; back-end e full stack) n:m para cada curso tem três tipos de turnos (manhã,tarde e noite).<br>
